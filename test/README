@@ -1,0 +1,6 @@
+In order to test the conversion proxy we need:
+
+- A Web service that is going to act as the target endpoint
+- An application to call that web service (via the conversion proxy)
+- Some data to throw at that service
+
